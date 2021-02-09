@@ -1,0 +1,36 @@
+//FORMAT TEMPLATE
+{
+  "price": 0,
+  "discount": 0,
+  "name": "",
+  "provider_name": "",
+  "validity": 0,
+  "images": {},
+  "provider_location": {},
+  "product_score": 0,
+  "product_total_review": 0,
+  "product_key": "",
+  "provider_key": "",
+  "negotiable": false,
+  "stock_available": 0,
+  "provider_type": 0
+}
+
+//DEMO
+
+{
+  "price": 100,
+  "discount": 10,
+  "name": "Test Product",
+  "provider_name": "",
+  "validity": 24,
+  "images": {},
+  "provider_location": {},
+  "product_score": 500,
+  "product_total_review": 100,
+  "product_key": "UNIQUE_KEY",
+  "provider_key": "UNIQUE_ID",
+  "negotiable": true,
+  "stock_available": 179,
+  "provider_type": 0
+}
