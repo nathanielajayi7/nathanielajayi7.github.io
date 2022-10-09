@@ -1,0 +1,35 @@
+{
+"fields" : [
+{
+   "label":"Email",
+   "fillColor":"#00FFFFFF",
+   "labelColor":"#EEEEEE",
+   "enabledBorderColor":"#EEEEEE",
+   "borderColor":null,
+   "textColor":null,
+   "labelBgColor":null,
+   "fontSize":20,
+   "spacing":null,
+   "width":null,
+   "white_list_formatter_regex":null,
+   "black_list_formatter_regex":null,
+   "showBorder":null,
+   "showLabel":false,
+   "filled":false,
+   "enabled":true,
+   "readOnly":null,
+   "obscureText":null,
+   "suffix":null,
+   "prefix":null,
+   "inputType":null,
+   "inputAction":null,
+   "vertical_padding":10,
+   "horizontal_padding":null,
+   "border_radius":null,
+   "hint":null,
+   "maxLines":null,
+   "maxLength":null,
+   "validator_regex":null
+}
+]
+}
