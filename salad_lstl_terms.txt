@@ -4,8 +4,8 @@ By accessing and using the Short Term Loans (STL) product provided by Salad Afri
 <b><u>LOAN AMOUNT AND INTEREST RATE</u></b><br><br>
 Salad Africa offers customers loans up to N500,000 at an interest rate of 3% for a period of 1 month.
 <br>You have requested a loan of amount:<br>
-<b>₦${formatMoney(amount)}</b> and your bank account will be credited with the sum of <b>₦${formatMoney(amount - loanCharge.data!.chargeAmount!)}</b>, with interest being deducted from the total loan requested<br> 
-The interest rate for this loan is <b>$interestRate%</b><br> and the max due date is <b>${DateFormat.yMMMd().format(lastDay)}</b>.
+<b>{amount}</b> and your bank account will be credited with the sum of <b>{sum}</b>, with interest being deducted from the total loan requested<br> 
+The interest rate for this loan is <b>{interestRate}%</b><br> and the max due date is <b>{lastDay}</b>.
 <br><br>
 Please, <b><i>BE AWARE</i></b> that Salad Africa will deduct the loan amount and interest from your employee's payroll invoice on or before the due date, depending on the salary payment cycle of your employer.
 <br><br>
