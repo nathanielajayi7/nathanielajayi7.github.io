@@ -1,5 +1,5 @@
 <b><u>TERMS OF SERVICE FOR SHORT TERM LOANS (STL) FROM SALAD AFRICA</u></b><br><br>
-By accessing and using the Short Term Loans (STL) product provided by Salad Africa, you agree to the following terms and conditions:
+By accessing and using the Short Term Loans (STL) product provided by Salad Africa, you, <b>{name}</b> - an employee of <b>{companyName}</b>, agree to the following terms and conditions:
 <br><br>
 <b><u>LOAN AMOUNT AND INTEREST RATE</u></b><br><br>
 Salad Africa offers customers loans up to N500,000 at an interest rate of 3% for a period of 1 month.
