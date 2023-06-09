@@ -1,42 +1,179 @@
-<b><u>TERMS OF SERVICE FOR SHORT TERM LOANS (STL) FROM SALAD AFRICA</u></b><br><br>
-By accessing and using the Short Term Loans (STL) product provided by Salad Africa, you, <b>{name}</b> - an employee of <b>{companyName}</b>, agree to the following terms and conditions:
-<br><br>
-<b><u>LOAN AMOUNT AND INTEREST RATE</u></b><br><br>
-Salad Africa offers customers loans up to N500,000 at an interest rate of 3% for a period of 1 month.
-<br>You have requested a loan of amount:<br>
-<b>{amount}</b> and your bank account will be credited with the sum of <b>{sum}</b>, with interest being deducted from the total loan requested<br> 
-The interest rate for this loan is <b>{interestRate}%</b><br> and the max due date is <b>{lastDay}</b>.
-<br><br>
-Please, <b><i>BE AWARE</i></b> that Salad Africa will deduct the loan amount and interest from your employer's payroll invoice on or before the due date, depending on the salary payment cycle of your employer.
-<br><br>
-<b><u>ELIGIBILITY</u></b><br><br>
-To be eligible for the Short Term Loan (STL) product, you must meet the following criteria:<br>
- - Be a resident of Nigeria<br>
- - Be at least 18 years of age<br>
- - Have a valid bank account<br>
- - Have a valid means of identification<br>
- - Be an employee in a company signed up to use the Salad Africa short term loan service<br>
-<br>
-<b><u>LOAN APPLICATION</u></b><br><br>
-To apply for the Short Term Loan (STL) product, you must complete the loan application form available on the Salad Africa website or mobile app. You must provide accurate and complete information in the loan application form. Salad Africa reserves the right to reject any loan application that does not meet the eligibility criteria or that contains inaccurate or incomplete information.<br>
-<br>
-<b><u>LOAN DISBURSEMENT</u></b><br><br>
-Salad Africa will disburse the loan amount to your designated bank account within 24 hours of loan approval. The loan amount will be disbursed net of any applicable fees.
-<br><br>
-<b><u>LOAN REPAYMENT</u></b><br><br>
-You must repay the loan amount plus interest within the stipulated loan repayment period of 1 month. Failure to repay the loan amount and interest within the stipulated loan repayment period will result in the application of additional interest at the rate of 1% per day until the loan is fully repaid.
-<br><br>
-<b><u>LOAN DEFAULT</u></b><br><br>
-In the event of loan default, Salad Africa reserves the right to take legal action against you to recover the outstanding loan amount plus interest and any applicable fees.
-<br><br>
-<b><u>FEES</u></b><br><br>
-Salad Africa may charge fees for the use of the Short Term Loan (STL) product. Any applicable fees will be clearly stated in the loan application form.
-<br><br>
-<b><u>MODIFICATION OF TERMS</u></b><br><br>
-Salad Africa reserves the right to modify these terms of service at any time without prior notice. Any modifications to these terms of service will be effective immediately upon posting on the Salad Africa website or mobile app.
-<br><br>
-<b><u>GOVERNING LAW AND JURISDICTION</u></b><br><br>
-These terms of service shall be governed by and construed in accordance with the laws of Nigeria. Any disputes arising out of or in connection with these terms of service shall be resolved by the courts of Nigeria.
-<br><br>
-<b><u>CONTACT INFORMATION</u></b><br><br>
-If you have any questions or comments about these terms of service or the Short Term Loan (STL) product, please contact us at <a href="mailto:support@saladafrica.com">support@saladafrica.com</a>
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+.MsoChpDefault
+	{font-family:"Arial",sans-serif;}
+.MsoPapDefault
+	{line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body bgcolor=white lang=EN-US style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><u><span lang=EN style='font-family:"Verdana",sans-serif'>TERMS
+OF SERVICE FOR SHORT TERM LOANS (STL) FROM SALAD AFRICA</span></u></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>By
+accessing and using the Short Term Loans (STL) product provided by Salad
+Africa, you agree to the following terms and conditions:</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>LOAN
+AMOUNT AND INTEREST RATE</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>Salad
+Africa offers customers loans up to N500,000 at an interest rate of 3% for a
+period of 1 month.</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>ELIGIBILITY</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>To be
+eligible for the Short Term Loan (STL) product, you must meet the following
+criteria:</span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'><span lang=EN
+style='font-family:"Verdana",sans-serif'>●<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN style='font-family:"Verdana",sans-serif'>Be a
+resident of Nigeria</span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'><span lang=EN
+style='font-family:"Verdana",sans-serif'>●<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN style='font-family:"Verdana",sans-serif'>Be at
+least 18 years of age</span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'><span lang=EN
+style='font-family:"Verdana",sans-serif'>●<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN style='font-family:"Verdana",sans-serif'>Have a
+valid bank account</span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'><span lang=EN
+style='font-family:"Verdana",sans-serif'>●<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN style='font-family:"Verdana",sans-serif'>Have a
+valid means of identification</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>LOAN
+APPLICATION</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>To
+apply for the Short Term Loan (STL) product, you must complete the loan
+application form available on the Salad Africa website or mobile app. You must
+provide accurate and complete information in the loan application form. Salad
+Africa reserves the right to reject any loan application that does not meet the
+eligibility criteria or that contains inaccurate or incomplete information.</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>LOAN
+DISBURSEMENT</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>Salad
+Africa will disburse the loan amount to your designated bank account within 24
+hours of loan approval. </span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>LOAN
+REPAYMENT</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>You
+must repay the loan amount plus interest within the stipulated loan repayment
+period. Failure to repay the loan amount and interest within the stipulated
+loan repayment period will result in Salad Africa taking the legal necessary
+steps for recovery.</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>LOAN
+DEFAULT</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>In
+the event of loan default, Salad Africa reserves the right to take legal action
+against you to recover the outstanding loan amount plus interest and any
+applicable fees.</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></b></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>FEES</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>Salad
+Africa may charge fees for the use of the Short Term Loan (STL) product. Any
+applicable fees will be clearly stated in the loan application form.</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>MODIFICATION
+OF TERMS</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>Salad
+Africa reserves the right to modify these terms of service at any time without
+prior notice. Any modifications to these terms of service will be effective
+immediately upon posting on the Salad Africa website or mobile app.</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>GOVERNING
+LAW AND JURISDICTION</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>These
+terms of service shall be governed by and construed in accordance with the laws
+of Nigeria. Any disputes arising out of or in connection with these terms of
+service shall be resolved by the courts of Nigeria.</span></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN style='font-family:"Verdana",sans-serif'>CONTACT
+INFORMATION</span></b></p>
+
+<p class=MsoNormal><span lang=EN style='font-family:"Verdana",sans-serif'>If
+you have any questions or comments about these terms of service or the Short
+Term Loan (STL) product, please contact us at support@saladafrica.com.</span></p>
+</div>
+
+</body>
+
+</html>
